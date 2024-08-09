@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e494300c87244694a4b87bbf2b6f5ac7" Name="Diagram1">
+        <EntityTypeShape EntityType="DbUrunSatisModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbUrunSatisModel.TblMusteriler" Width="1.5" PointX="0.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbUrunSatisModel.TblSatislar" Width="1.5" PointX="4.125" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbUrunSatisModel.TblUrunler" Width="1.5" PointX="6.5" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="DbUrunSatisModel.FK_TblSatislar_TblMusteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="DbUrunSatisModel.FK_TblSatislar_TblUrunler" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

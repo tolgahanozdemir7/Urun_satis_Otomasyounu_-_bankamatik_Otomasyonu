@@ -1,0 +1,115 @@
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe.config
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.pdb
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csprojAssemblyReference.cache
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Form1.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Properties.Resources.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.exe
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.pdb
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.YetkiliIslem.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriIslem.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriEkle.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriAra.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriGuncelle.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriSil.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriListele.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaCek.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaYatir.resources
+C:\Users\toshiba\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Bakiye.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe.config
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.pdb
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.AssemblyReference.cache
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Bakiye.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Form1.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriAra.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriEkle.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriGuncelle.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriIslem.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriListele.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriSil.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaCek.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaYatir.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Properties.Resources.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.YetkiliIslem.resources
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.GenerateResource.cache
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.CoreCompileInputs.cache
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.exe
+C:\Users\ab154364\Downloads\bankamatikOto\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.pdb
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe.config
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.pdb
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.AssemblyReference.cache
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.SuggestedBindingRedirects.cache
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Bakiye.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Form1.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriAra.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriEkle.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriGuncelle.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriIslem.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriListele.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriSil.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaCek.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaYatir.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Properties.Resources.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.YetkiliIslem.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.GenerateResource.cache
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.CoreCompileInputs.cache
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.exe
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.pdb
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifreDegistir.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Havale.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.HesapHareketleri.resources
+D:\CSHARP\OTOMASYONLARcSharp\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifremiUnuttum.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe.config
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.pdb
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.AssemblyReference.cache
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Bakiye.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Form1.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Havale.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.HesapHareketleri.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriAra.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriEkle.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriGuncelle.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriIslem.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriListele.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriSil.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaCek.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaYatir.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Properties.Resources.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifreDegistir.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifremiUnuttum.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.YetkiliIslem.resources
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.GenerateResource.cache
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.CoreCompileInputs.cache
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.exe
+C:\Users\ab154364\Downloads\mucityazilim-BankamatikOtoCsharp-main (2)\mucityazilim-BankamatikOtoCsharp-main\bankamatikOto (2)\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.pdb
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe.config
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.exe
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\bin\Debug\bankamatikOto.pdb
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Bakiye.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Form1.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Havale.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.HesapHareketleri.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriAra.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriEkle.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriGuncelle.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriIslem.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriListele.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.MusteriSil.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaCek.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.ParaYatir.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.Properties.Resources.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifreDegistir.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.SifremiUnuttum.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.YetkiliIslem.resources
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.GenerateResource.cache
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.exe
+C:\Users\user\source\repos\bankamatikOto\bankamatikOto\obj\Debug\bankamatikOto.pdb
